@@ -1,0 +1,23 @@
+{
+  "name": "unit-4-c1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arbaz86/Unit-4-C1.git"
+  },
+  "author": "Arbaz Hussain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arbaz86/Unit-4-C1/issues"
+  },
+  "homepage": "https://github.com/Arbaz86/Unit-4-C1#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
